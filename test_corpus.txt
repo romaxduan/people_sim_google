@@ -1,0 +1,4 @@
+this is only a test  test test test
+test for the corpus working or not
+by now it should be clear that the vector feature with stands for the questions
+similarly to construct the dictionary without loading all texts into memory
